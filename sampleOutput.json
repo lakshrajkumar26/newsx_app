@@ -1,0 +1,98 @@
+{
+    "status": "ok",
+    "totalResults": 106,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "EU leans against forcing Apple to make iMessage cross-platform, report says",
+            "description": "The European Union is deliberating whether to designate iMessage as a \"core platform service,\" but it is reportedly leaning against it.",
+            "url": "https://www.androidcentral.com/apps-software/eu-may-not-make-message-cross-platform",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YcMNVPGPdvh6VTJEcfRgGW-1200-80.jpeg",
+            "publishedAt": "2023-12-07T00:56:39Z",
+            "content": "<ul><li>The European Union is considering whether to make iMessage a core platform service under the Digital Markets Act (DMA).</li><li>If iMessage becomes a core platform service, Apple would have t… [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "First responders praise iPhone’s Emergency SOS via satellite feature: ‘Truly a lifesaver’",
+            "description": "Since Apple’s Emergency SOS via satellite feature debuted alongside the iPhone 14 last year, there have been a number of stories about the feature being used in the real world. A new report from Backpacker this week offers a behind-the-scenes look at how the …",
+            "url": "https://9to5mac.com/2023/12/06/iphone-satellite-emergency-feature-response/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-satellite-connectivity.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-07T02:58:20Z",
+            "content": "Since Apple’s Emergency SOS via satellite feature debuted alongside the iPhone 14 last year, there have been a number of stories about the feature being used in the real world. A new report from Back… [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Lumb",
+            "title": "iPhone 13 and iPhone 14 Reportedly Getting Better Wireless Charging in iOS 17.2 - CNET",
+            "description": "The upcoming iOS 17.2 update is reportedly adding support for Qi2 wireless charging.",
+            "url": "https://www.cnet.com/tech/mobile/iphone-13-and-iphone-14-reportedly-getting-better-wireless-charging-in-ios-17-2/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1532f2c36947f287adcf3920073970b2e7c164a8/hub/2022/05/06/16ab279e-6b74-4eb8-8b74-d008d74d7097/screen-shot-2022-05-06-at-3-05-26-pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-07T00:15:01Z",
+            "content": "The upcoming iOS 17.2 update already brings several important features to Apple's phones, like Journal and using your Live Stickers to react in messages. Now, a report says you can add faster wireles… [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Bharat Bhushan",
+            "title": "This pen-sized electric screwdriver can output up to 10 kgf.cm of torque, making DIY a breeze",
+            "description": "This pen-sized electric screwdriver can output up to 10 kgf.cm of torque, making DIY a breezeThe three ideological aspects behind every portable multi-tool probably are versatility, performance, and user experience. Take one facet out and you’re left with lit…",
+            "url": "https://www.yankodesign.com/2023/12/06/this-pen-sized-electric-screwdriver-can-output-up-to-10-kgf-cm-of-torque-making-diy-a-breeze/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2023/11/you-can-operate-the-high-torque-arrowmax-m1-pro-electric-screwdriver-using-touch-or-gesture-controls/Arrowmax-M1-Pro-1.jpg",
+            "publishedAt": "2023-12-07T02:45:36Z",
+            "content": "The three ideological aspects behind every portable multi-tool probably are versatility, performance, and user experience. Take one facet out and youre left with little or no sense to carry the produ… [+6248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "5 Reasons Why You Should Buy the Samsung Galaxy Tab S9 Ultra!",
+            "description": "Interested in checking out Samsung's high-end Android tablet? Let's take a look!\nThe post 5 Reasons Why You Should Buy the Samsung Galaxy Tab S9 Ultra! appeared first on Phandroid.",
+            "url": "https://phandroid.com/2023/12/06/5-reasons-why-you-should-buy-the-samsung-galaxy-tab-s9-ultra/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2023/12/tab-s9-ultra-5-640x389.png",
+            "publishedAt": "2023-12-07T02:11:24Z",
+            "content": "Perhaps at this point it’s probably safe to say that as far as tablets go, Samsung’s high-end Galaxy Tab models are among the best that you can get right now, and are a great example of how far Andro… [+4209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Joshua Hawkins",
+            "title": "How Google could fix the Pixel Watch 2’s biggest flaw",
+            "description": "Google made a lot of good steps forward with the release of the Pixel Watch 2, offering better battery life, better performance, and the same …\nThe post How Google could fix the Pixel Watch 2’s biggest flaw appeared first on BGR.",
+            "url": "https://bgr.com/tech/how-google-could-fix-the-pixel-watch-2s-biggest-flaw/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2023/10/google-pixel-watch-2-bgr.jpg?quality=82&strip=all",
+            "publishedAt": "2023-12-07T02:37:00Z",
+            "content": "Google made a lot of good steps forward with the release of the Pixel Watch 2, offering better battery life, better performance, and the same beautiful design that helps the Pixel watch lineup stand … [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "sullyphoto64@gmail.com (Terry Sullivan)",
+            "title": "Apple to unveil new M3 MacBook Air laptop and new iPads in early 2024",
+            "description": "Hopes are high at Apple to improve sales in the coming year, particularly of Macs and iPads",
+            "url": "https://www.imore.com/apple/apple-to-unveil-new-m3-macbook-air-laptop-and-new-ipads-in-early-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F945EUA6Q8xqqrzCuEWJfM-1200-80.jpg",
+            "publishedAt": "2023-12-07T00:36:12Z",
+            "content": "Apple is expected to unveil updates to several of its key product lines in early 2024, according to a recent Bloomberg article\r\n. The list of refreshed products includes new versions of iPad Air and … [+3086 chars]"
+        }
+        
+    ]
+}
